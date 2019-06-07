@@ -1,7 +1,7 @@
 Transform: 'AWS::Serverless-2016-10-31'
 Resources:
 
-  Trigger_Glue_ETL_Function:
+  TriggerGlueETLFunction:
     # This resource creates a Lambda function.
     Type: 'AWS::Serverless::Function'
 
